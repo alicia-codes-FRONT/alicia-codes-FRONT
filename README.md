@@ -6,7 +6,7 @@ You'll learn about some of the projects I have built along my self-taught develo
 ### 🪪 About Me
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,materialui,git,php,mysql,vscode,figma,ps,ai&perline=7)](https://skillicons.dev)
 ---
-I'm a front end developer and  aspiring UX/UI developer.
+I'm a front end developer and  creative.
 
 I enjoy bringing cool ideas to life and look forward to the next challenge that comes my way.
 
