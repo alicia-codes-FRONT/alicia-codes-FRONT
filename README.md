@@ -4,7 +4,7 @@
 You'll learn about some of the projects I have built along my self-taught developer journey.
 
 ### 🪪 About Me
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,npm,tailwind,bootstrap,materialui,git,github,php,mysql,vscode,codepen,notion,figma,ps,windows,ai&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,npm,tailwind,bootstrap,materialui,git,github,php,mysql,vscode,codepen,notion,figma,ps,apple,windows,ai&perline=5)](https://skillicons.dev)
 ---
 I'm a front end developer and creative.
 
